@@ -17,6 +17,10 @@ UpdatedAt DATETIME DEFAULT CURRENT_TIMESTAMP
 
 if we use Entity Framework so Triggers we use in Code Side. If we use Stored Procedure for Insert/Update Data then we use Database Side Triggers.
 
+Which Technologies We use
+--.NET 6 (Api Based Project)
+--Microsoft Sql Server
+
 Which ORMs using in this application
 --Entity Framework
 --Insight Database (Micro ORM)
